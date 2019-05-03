@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 15.0.26730.12
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "json-customization", "json-customization\json-customization.csproj", "{3CAF590D-2888-41E6-A9FD-E1E795ADF01E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "using-interfaces", "using-interfaces\using-interfaces.csproj", "{00B076F7-D08A-46FE-988F-9F7138FA8F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CAF590D-2888-41E6-A9FD-E1E795ADF01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAF590D-2888-41E6-A9FD-E1E795ADF01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAF590D-2888-41E6-A9FD-E1E795ADF01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAF590D-2888-41E6-A9FD-E1E795ADF01E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B076F7-D08A-46FE-988F-9F7138FA8F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B076F7-D08A-46FE-988F-9F7138FA8F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B076F7-D08A-46FE-988F-9F7138FA8F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B076F7-D08A-46FE-988F-9F7138FA8F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BA01E9F-CC19-4106-875C-DC9CA172D272}
+	EndGlobalSection
+EndGlobal
